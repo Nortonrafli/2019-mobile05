@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import polinema.ac.id.starterchapter05.R;
+
 public class StaticActivity extends AppCompatActivity {
 
     @Override
