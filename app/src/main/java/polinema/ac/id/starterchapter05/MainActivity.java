@@ -13,10 +13,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void handlerdynamicFragment(View view) {
+    public void handlerStaticFragment(View view) {
     }
 
-    public void handlerStaticFragment(View view) {
+    public void handlerdynamicFragment(View view) {
     }
 
     public void handlerPraktikumFragment(View view) {
